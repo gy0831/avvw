@@ -6,42 +6,6 @@ Apicloud + Vue2 + Vant2（有赞前端）+ Webpack4 (Vue-cli3) 打包，是一�
 
 > 采用最新 Vue-cli3 脚手架制作，开发、编译和维护更轻便快捷
 
-# 案例展示
-
-<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/e2/8e/1fe28e1e-f6d2-03a0-1186-0a00afcd0890/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/246x0w.png" width="60" /> [知法乎](https://apps.apple.com/cn/app/id1454196247)
-
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/73/3c/e1733c05-0bd8-7277-c90d-137d9c598208/pr_source.png/300x0w.png" width="30%" /><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/7d/27/78/7d27784a-7bd6-b4b8-7530-a50d9fb882d6/pr_source.png/300x0w.png" width="30%" /><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/5b/7f/b1/5b7fb1bb-a12a-c5d9-5952-8cef836dc956/pr_source.png/300x0w.png" width="30%" />
-
----
-
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/62/7f/b8627fa9-7aeb-a515-b255-c724ebf8b8a9/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/246x0w.png" width="60" /> [俭道](https://apps.apple.com/cn/app/俭道/id1517346440)
-
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/74/f8/0c74f834-9136-222d-6c4c-3443b59d4218/pr_source.png/300x0w.png" width="30%" /><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/17/cf/00/17cf000c-cd86-4be2-50dc-712c2d78b7f3/pr_source.png/300x0w.png" width="30%" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/87/80/79/8780798c-59ed-d29b-e111-2bab21f48bfe/pr_source.png/300x0w.png" width="30%" />
-
----
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/78/5e/82785e42-02e3-4d50-b6be-6052042d54d2/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/246x0w.png" width="60" /> [易挖网](https://apps.apple.com/cn/app/易挖网/id1476913825)
-
-<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/7b/8a/57/7b8a5700-cf77-6289-c9cc-938bfa2d68bb/pr_source.jpg/300x0w.jpg" width="30%" /><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/e1/80/e7e18013-dc6f-9f25-1bc1-df8bcaafc3e8/pr_source.jpg/300x0w.jpg" width="30%" /><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/19/27/f519270b-bc88-98d7-dc99-4ba681f81c8e/pr_source.jpg/300x0w.jpg" width="30%" />
-
----
-
-<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/d0/24/1bd024e3-b0e8-d069-b8f2-4788323443a0/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/246x0w.png" width="60" /> [建老大](https://apps.apple.com/cn/app/建老大/id1504655165#?platform=iphone)
-
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/db/f2/cc/dbf2cc2a-27b1-2d7f-cda6-c0305ecf6b37/pr_source.jpg/300x0w.jpg" width="30%" /><img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/0e/1e/c3/0e1ec37b-dc8a-fee6-34ad-8200e917c79b/pr_source.jpg/300x0w.jpg" width="30%" /><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/0b/5f/df/0b5fdf5c-e178-1519-e246-939110a7c1ec/pr_source.jpg/300x0w.jpg" width="30%" />
-
----
-
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ad/fb/0a/adfb0a51-c267-17b7-95e7-e5aab3ec1e48/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" width="60"> [武文浓墨](https://apps.apple.com/cn/app/id1504004849)
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/1d/39/8f1d3948-7b96-b9c2-a5e6-6261fb0c35a4/pr_source.png/300x0w.png" width="30%"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/95/12/a0/9512a082-b97e-2765-57b1-a038261a296f/pr_source.png/300x0w.png" width="30%"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/f7/1c/5af71cee-782c-4a30-edde-aa86215a0665/pr_source.png/300x0w.png" width="30%">
-
----
-
-<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/56/18/67/56186704-3228-bf3f-fa3c-4fd221a61757/AppIcon-0-0-1x_U007emarketing-0-0-0-4-85-220.png/246x0w.png" width="60"> [收货地址助手](https://apps.apple.com/cn/app/id1510714935)
-
-<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/59/0f/5b/590f5bbd-c695-ba3d-5622-f245b9522c96/pr_source.jpg/300x0w.jpg" width="30%"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/cd/c5/5ecdc562-252b-0c8b-133c-1aa8010bcb03/pr_source.jpg/300x0w.jpg" width="30%"><img src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/d6/55/aed65554-aeb1-b4ab-016b-702026d68375/pr_source.jpg/300x0w.jpg" width="30%">
-
 # 目录结构
 
 - dist 编译代码，压缩后上传到 Apicloud 发布 App
